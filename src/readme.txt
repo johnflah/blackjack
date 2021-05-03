@@ -1,5 +1,3 @@
-# blackjack
-
 Thank you for taking the time to review this application, the codebase is included in the attached 7zip file.
 Please decompress and navigate to the src\com\jayoheff directory, from there the application can be compiled using the following command :
 javac -d classes constants/*.java impl/*.java interfaces/*.java util/*.java  vm/*.java main.java

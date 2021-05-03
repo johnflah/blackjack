@@ -1,0 +1,102 @@
+λ cd C:\development\java\blackjack repo\blackjackv2\src\com\jayoheff\classes
+
+C:\development\java\blackjack repo\blackjackv2\src\com\jayoheff\classes
+λ java com.jayoheff.Main
+
+Game 1
+Do You Wish To Play A Game Y/N?
+Y
+SEVEN of DIAMONDS From Deck # 3
+ACE of DIAMONDS From Deck # 3
+Score = 18
+Please choose action
+        press H to Hit,
+         press S to  stand.
+         Type -1 to Quit.
+s
+SEVEN of DIAMONDS From Deck # 3
+ACE of DIAMONDS From Deck # 3
+Score = 18
+Dealer Wins: Score: 18
+Player Loses: Score: 18
+
+
+Game 2
+Do You Wish To Play A Game Y/N?
+y
+SIX of CLUBS From Deck # 2
+SEVEN of DIAMONDS From Deck # 3
+Score = 13
+Please choose action
+        press H to Hit,
+         press S to  stand.
+         Type -1 to Quit.
+H
+SIX of CLUBS From Deck # 2
+SEVEN of DIAMONDS From Deck # 3
+QUEEN of CLUBS From Deck # 2
+Score = 23
+Dealer Wins: No Remaining Players :
+
+
+Game 3
+Do You Wish To Play A Game Y/N?
+Y
+TWO of SPADES From Deck # 1
+TEN of SPADES From Deck # 1
+Score = 12
+Please choose action
+        press H to Hit,
+         press S to  stand.
+         Type -1 to Quit.
+H
+TWO of SPADES From Deck # 1
+EIGHT of HEARTS From Deck # 1
+TEN of SPADES From Deck # 1
+Score = 20
+Please choose action
+        press H to Hit,
+         press S to  stand.
+         Type -1 to Quit.
+s
+TWO of SPADES From Deck # 1
+EIGHT of HEARTS From Deck # 1
+TEN of SPADES From Deck # 1
+Score = 20
+Dealer Loses: Score: 25
+
+Game 4
+Do You Wish To Play A Game Y/N?
+y
+THREE of DIAMONDS From Deck # 2
+THREE of DIAMONDS From Deck # 3
+Score = 6
+Please choose action
+        press H to Hit,
+         press S to  stand.
+         Type -1 to Quit.
+h
+THREE of DIAMONDS From Deck # 2
+THREE of DIAMONDS From Deck # 3
+SEVEN of DIAMONDS From Deck # 1
+Score = 13
+Please choose action
+        press H to Hit,
+         press S to  stand.
+         Type -1 to Quit.
+h
+THREE of DIAMONDS From Deck # 2
+THREE of DIAMONDS From Deck # 3
+SEVEN of DIAMONDS From Deck # 1
+KING of DIAMONDS From Deck # 2
+Score = 23
+Dealer Wins: No Remaining Players :
+
+Game 5
+Do You Wish To Play A Game Y/N?
+y
+KING of CLUBS From Deck # 2
+ACE of HEARTS From Deck # 1
+Score = 21
+Player Wins: Score: 21
+Do You Wish To Play A Game Y/N?
